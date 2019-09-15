@@ -1,2 +1,3 @@
-Detta är ett repo där jag kommer bygga min egna webbsida som kommer att innehålla mitt CV. 
+Detta är ett repo där jag kommer bygga min egna webbsida som kommer att innehålla mitt CV.
 
+Detta skrevs från Mac.
